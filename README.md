@@ -99,17 +99,6 @@ Modern organizations operate counter to natural collaborative tendencies, creati
 - **_Global Scale:_** Trillions in reclaimed productive capacity
 - **_Market Opportunity:_** Address coordination losses across all industries
 
-## Prerequisites
-
-bash 
-#Python 3.9+ 
-python --version 
-
-#Required packages 
-pip install -r requirements.txt 
-
-#Docker for containerized deployment 
-docker --version 
 
 ## Research Methodology 
 
